@@ -1,1 +1,1 @@
-# eCommerce-Sales-Dataset-Dashbaord
+One of leading e-commerce company want a detailed study of customer behaviour based on the data of 2 months. Interactive dashboard is created after treating the data and performing various DAX operations. Power BI is used to create dashboard and other data treatment operations. 
